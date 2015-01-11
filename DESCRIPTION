@@ -1,0 +1,9 @@
+Package: infix
+Type: Package
+Title: What the package does (short line)
+Version: 0.0.1
+Date: 2015-01-10
+Author: Luis Delgado
+Maintainer: Luis Delgado <luisd303@gmail.com>
+Description: Provides a set of infix operators to make programming easier.
+License: What license is it under?
